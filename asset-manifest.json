@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/news-practice/static/js/main.ae598db3.js",
+    "main.js": "/news-practice/static/js/main.e2de22af.js",
     "index.html": "/news-practice/index.html",
-    "main.ae598db3.js.map": "/news-practice/static/js/main.ae598db3.js.map"
+    "main.e2de22af.js.map": "/news-practice/static/js/main.e2de22af.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae598db3.js"
+    "static/js/main.e2de22af.js"
   ]
 }
