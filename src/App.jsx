@@ -33,7 +33,7 @@ class App extends Component {
         <GlobalStyle />
         <Main>
           {error && (
-            <Message>Whops, something went wrong: {error.message}</Message>
+            <Message>Oh no, something went wrong: {error.message}</Message>
           )}
           {isLoading ? (
             <Message>Loading...</Message>
